@@ -3,7 +3,7 @@ Projects from the Data Science course
 
 This is a collection of all the projects from the Datacamp Data Science course.
 
-<strong><u>Project #1 Netflix</u></strong>
+<strong><ins>Project #1 Netflix</ins></strong>
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
@@ -11,7 +11,7 @@ Given the large number of movies and series available on the platform, it is a p
 
 You have been supplied with the dataset `netflix_data.csv` , along with the following table detailing the column names and descriptions. This data does contain null values and some outliers, but handling these is out of scope for the project. Feel free to experiment after submitting!
 
-<strong><u>Project #2 NYC schools</u></strong>
+<strong><ins>Project #2 NYC schools</ins></strong>
 
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a **maximum score of 800 points**. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
