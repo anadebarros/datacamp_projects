@@ -3,7 +3,7 @@ Projects from the Data Science course
 
 This is a collection of all the projects from the Datacamp Data Science course.
 
-<strong><u>Project #1 Netflix<u/></strong>
+<strong><u>Project #1 Netflix</u></strong>
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
