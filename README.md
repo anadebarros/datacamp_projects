@@ -44,7 +44,7 @@ It is a modified version of the original data, which is publicly available from 
 
 Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like .csv, .tsv, and .xlsx.
 
-<strong><ins>Project #7 Predictive modelling for agriculture</ins></strong>
+<strong><ins>Project #8 Predictive modelling for agriculture</ins></strong>
 
 Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can be an expensive and time-consuming process, which can cause farmers to prioritize which metrics to measure based on their budget constraints.
 
