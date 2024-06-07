@@ -60,3 +60,9 @@ A farmer reached out to you as a machine learning expert for assistance in selec
 Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
 
 In this project, you will build multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
+
+<strong><ins>Project #9 Clustering Antarctic penguin species</ins></strong>
+
+You have been asked to support a team of researchers who have been collecting data about penguins in Antartica! The data is available in csv-Format as penguins.csv
+
+Origin of this data : Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
